@@ -8,7 +8,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandl
 # ============================================
 
 # توکن ربات تلگرام شما (از @BotFather دریافت کنید)
-TELEGRAM_BOT_TOKEN = "8358065838:AAH769yiegztjRB7OG2XYfiNTTtv_2V8Bq4"
+TELEGRAM_BOT_TOKEN = ""
 
 # آی‌پی یا آدرس سرویس هوش مصنوعی شما (مثال: "http://192.168.1.100:8000" یا "https://api.example.com")
 AI_SERVICE_IP = ""
